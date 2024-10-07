@@ -1,0 +1,36 @@
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\DiscosApp\bin\Debug\DiscosApp.exe.config
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\DiscosApp\bin\Debug\DiscosApp.exe
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\DiscosApp\bin\Debug\DiscosApp.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\DiscosApp\bin\Debug\dominio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\DiscosApp\bin\Debug\negocio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\DiscosApp\bin\Debug\accesoDatos.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\DiscosApp\bin\Debug\dominio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\DiscosApp\bin\Debug\negocio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\DiscosApp\bin\Debug\accesoDatos.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\DiscosApp\obj\Debug\DiscosApp.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\DiscosApp\obj\Debug\DiscosApp.frmDiscos.resources
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\DiscosApp\obj\Debug\DiscosApp.Properties.Resources.resources
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\DiscosApp\obj\Debug\DiscosApp.csproj.GenerateResource.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\DiscosApp\obj\Debug\DiscosApp.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\DiscosApp\obj\Debug\DiscosApp.csproj.CopyComplete
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\DiscosApp\obj\Debug\DiscosApp.exe
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\DiscosApp\obj\Debug\DiscosApp.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\DiscosApp\obj\Debug\DiscosApp.frmAgregar.resources
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\DiscosApp\bin\Debug\DiscosApp.exe.config
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\DiscosApp\bin\Debug\DiscosApp.exe
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\DiscosApp\bin\Debug\DiscosApp.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\DiscosApp\bin\Debug\dominio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\DiscosApp\bin\Debug\negocio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\DiscosApp\bin\Debug\accesoDatos.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\DiscosApp\bin\Debug\dominio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\DiscosApp\bin\Debug\negocio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\DiscosApp\bin\Debug\accesoDatos.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\DiscosApp\obj\Debug\DiscosApp.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\DiscosApp\obj\Debug\DiscosApp.frmAgregar.resources
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\DiscosApp\obj\Debug\DiscosApp.frmDiscos.resources
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\DiscosApp\obj\Debug\DiscosApp.Properties.Resources.resources
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\DiscosApp\obj\Debug\DiscosApp.csproj.GenerateResource.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\DiscosApp\obj\Debug\DiscosApp.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\DiscosApp\obj\Debug\DiscosApp.csproj.CopyComplete
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\DiscosApp\obj\Debug\DiscosApp.exe
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\DiscosApp\obj\Debug\DiscosApp.pdb

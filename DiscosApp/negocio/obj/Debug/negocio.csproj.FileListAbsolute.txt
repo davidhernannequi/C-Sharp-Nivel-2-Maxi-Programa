@@ -1,0 +1,22 @@
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\negocio\bin\Debug\negocio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\negocio\bin\Debug\negocio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\negocio\bin\Debug\accesoDatos.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\negocio\bin\Debug\dominio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\negocio\bin\Debug\accesoDatos.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\negocio\bin\Debug\dominio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\negocio\obj\Debug\negocio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\DiscosApp\negocio\obj\Debug\negocio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\negocio\bin\Debug\negocio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\negocio\bin\Debug\negocio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\negocio\bin\Debug\accesoDatos.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\negocio\bin\Debug\dominio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\negocio\bin\Debug\accesoDatos.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\negocio\bin\Debug\dominio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\negocio\obj\Debug\negocio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-2\DiscosApp\negocio\obj\Debug\negocio.pdb
